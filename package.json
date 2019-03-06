@@ -1,6 +1,6 @@
 {
   "name": "pon-task-task",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pon task to call another task",
   "main": "lib",
   "browser": "shim/browser",
